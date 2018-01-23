@@ -1,0 +1,14 @@
+{
+    "name": "vue-router-enhancer",
+    "version": "0.1.0",
+    "description": "enhance vue-router",
+    "main": "vue-router-enhancer.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "vue-router"
+    ],
+    "author": "wen911119@gmail.com",
+    "license": "ISC"
+}
